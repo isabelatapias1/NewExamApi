@@ -5,7 +5,7 @@ para que esta API funcione se requiere instalar
 * node js
 * mongodb
 
--tambien se tienen que descargar los siguientes modulos 
+-También se tienen que descargar los siguientes módulos 
 * express
 * body parser
 * dotenv
